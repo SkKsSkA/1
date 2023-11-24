@@ -1,0 +1,57 @@
+﻿body {
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.intro {
+  background-color: yellow;
+}
+
+#firstname {
+  background-color: rgb(225, 255, 0);
+}
+
+p {
+  background-color: black;
+  padding: 40px;
+  margin: 10; 
+}
+
+h1 {
+  border: 5px solid red;
+}
+
+h2 {
+  border: 4px dotted blue;
+}
+
+div {
+  border: double;
+}
+
+h3 {
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
+
+img {
+  float: right;
+  width: 170px;
+  height: 170px;
+  margin-left: 15px;
+}
+
+.div1 {
+  float: left;
+}
+
+.div2 {
+  clear: left;
+}
